@@ -1,6 +1,6 @@
 <!-- Banner Title with Orange Background -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aman-shahi-dev/aman-shahi-dev/main/me.jpg" alt="Aman Shahi Banner" />
+  <img src="https://raw.githubusercontent.com/aman-shahi-dev/aman-shahi-dev/main/me-1.jpg" alt="Aman Shahi Banner" />
 </p>
 
 
