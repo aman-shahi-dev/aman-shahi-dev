@@ -1,18 +1,15 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aman-shahi-dev/aman-shahi-dev/main/banner.jpg" alt="Aman Shahi Banner" />
-</p>
+<!-- Banner Title with Orange Background -->
+<div align="center" style="background-color: orange; padding: 10px 0; border-radius: 8px;">
+  <h1 style="color: white; font-size: 2.5rem;">Hey, I'm Aman Shahi</h1>
+</div>
 
-<h1 align="center">Hi 👋, I'm Aman Shahi</h1>
-<h3 align="center">A passionate Frontend Developer and aspiring Web3 builder 🚀</h3>
+<h3 align="center">Developer in developing phase</h3>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🌱 I’m currently learning **Full-Stack Web Development**
-- 🎯 Goal: Get a remote dev job by **August 2025**
-- ⚡ Fun fact: I use AI daily for news, captions, and learning!
+- I do competitive programming (2 star coder at CodeChef)
 
 ---
 
@@ -37,6 +34,6 @@
 ### 📫 Connect with Me
 
 - Twitter (Music page): [@your-handle](#)
-- Email: `your-email@example.com` (update this)
+- Email: `amanshahidev@gmail.com`
 
 ---
