@@ -26,10 +26,21 @@
 
 Here are some cool things I've built recently:
 
+#### 🔹 [Review Collector](https://aman-shahi-dev.github.io/review-collector/)
+> A basic review collector built using HTML, CSS, and JavaScript.  
+> Real-time input handling: Submit button turns green only when input is valid.
+> Auto-reset logic to clear fields after review submission.
+> DOM manipulation with clean, readable vanilla JS.
+> Fully responsive for both desktop and mobile users.
+> Lightweight and fast-loading — perfect for learning frontend basics.
+[GitHub Repo](https://github.com/aman-shahi-dev/review-collector)
+
+
 #### 🔹 [Calculator App](https://aman-shahi-dev.github.io/calculator-using-JS/)
 > A basic calculator built using HTML, CSS, and JavaScript.  
 > Supports addition, subtraction, multiplication, and division. Clean UI with keyboard input support.  
 [GitHub Repo](https://github.com/aman-shahi-dev/calculator-using-JS)
+
 
 #### 🔹 [To-Do App](https://aman-shahi-dev.github.io/todo-app/)
 > A simple and clean to-do list web app built using HTML, CSS, and Vanilla JS.  
