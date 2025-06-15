@@ -22,6 +22,28 @@
 
 ---
 
+### 📁 Projects
+
+Here are some cool things I've built recently:
+
+#### 🔹 [Calculator App](https://aman-shahi-dev.github.io/calculator/)
+> A basic calculator built using HTML, CSS, and JavaScript.  
+> Supports addition, subtraction, multiplication, and division. Clean UI with keyboard input support.  
+[GitHub Repo](https://github.com/aman-shahi-dev/calculator)
+
+#### 🔹 [To-Do App](https://aman-shahi-dev.github.io/todo-app/)
+> A simple and clean to-do list web app built using HTML, CSS, and Vanilla JS.  
+> Add/delete tasks with instant alerts. Fully responsive UI.  
+[GitHub Repo](https://github.com/aman-shahi-dev/todo-app)
+
+#### 🔹 [Color Switcher](https://aman-shahi-dev.github.io/Color-Switcher/)
+> A fun color palette toggler using JavaScript and CSS.  
+> Click buttons to change the background color instantly.  
+[GitHub Repo](https://github.com/aman-shahi-dev/Color-Switcher)
+
+---
+
+
 ### 📈 GitHub Stats
 
 <p align="center">
