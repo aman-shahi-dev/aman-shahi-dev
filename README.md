@@ -34,7 +34,7 @@
 
 ### 📫 Connect with Me
 
-- Twitter (Music page): [@your-handle](#)
+- [![Twitter](https://img.shields.io/badge/Twitter-@amanshahidev-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/amanshahidev)
 - Email: `amanshahidev@gmail.com`
 
 ---
