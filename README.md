@@ -33,7 +33,6 @@ Here are some cool things I've built recently:
 - DOM manipulation with clean, readable vanilla JS.
 - Fully responsive for both desktop and mobile users.
 - Lightweight and fast-loading — perfect for learning frontend basics.
-  
 [GitHub Repo](https://github.com/aman-shahi-dev/review-collector)
 
 
