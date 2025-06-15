@@ -27,7 +27,7 @@
 Here are some cool things I've built recently:
 
 #### 🔹 [Review Collector](https://aman-shahi-dev.github.io/review-collector/)
-> A basic review collector built using HTML, CSS, and JavaScript.  
+> A basic review collector built using HTML, CSS, and JavaScript.
 > Real-time input handling: Submit button turns green only when input is valid.
 > Auto-reset logic to clear fields after review submission.
 > DOM manipulation with clean, readable vanilla JS.
