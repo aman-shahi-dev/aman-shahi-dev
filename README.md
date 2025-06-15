@@ -1,7 +1,8 @@
 <!-- Banner Title with Orange Background -->
-<div align="center" style="background-color: orange; padding: 10px 0; border-radius: 8px;">
-  <h1 style="color: white; font-size: 2.5rem;">Hey, I'm Aman Shahi</h1>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aman-shahi-dev/aman-shahi-dev/main/me.jpg" alt="Aman Shahi Banner" />
+</p>
+
 
 <h3 align="center">Developer in developing phase</h3>
 
