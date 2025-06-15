@@ -35,6 +35,6 @@
 ### 📫 Connect with Me
 
 - [![Twitter](https://img.shields.io/badge/Twitter-@amanshahidev-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/amanshahidev)
-- Email: `amanshahidev@gmail.com`
+- [![Gmail](https://img.shields.io/badge/Email-amanshahidev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amanshahidev@gmail.com)
 
 ---
