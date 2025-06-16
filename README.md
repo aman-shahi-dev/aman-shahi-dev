@@ -30,7 +30,7 @@ Here are some cool things I've built recently:
 - A responsive BMI calculator that takes user’s height and weight to compute BMI in real-time.
 - Displays BMI category (Underweight, Normal, Overweight, Obese) with dynamic color feedback.
 - Includes a BMI chart image and reset functionality for better user experience.
-[GitHub Repo](https://github.com/aman-shahi-dev/bmi-index-calculator-responsive)
+  [GitHub Repo](https://github.com/aman-shahi-dev/bmi-index-calculator-responsive)
 
 
 #### 🔹 [Review Collector](https://aman-shahi-dev.github.io/review-collector/)
@@ -40,24 +40,24 @@ Here are some cool things I've built recently:
 - DOM manipulation with clean, readable vanilla JS.
 - Fully responsive for both desktop and mobile users.
 - Lightweight and fast-loading — perfect for learning frontend basics.
-[GitHub Repo](https://github.com/aman-shahi-dev/review-collector)
+  [GitHub Repo](https://github.com/aman-shahi-dev/review-collector)
 
 
 #### 🔹 [Calculator App](https://aman-shahi-dev.github.io/calculator-using-JS/)
 - A basic calculator built using HTML, CSS, and JavaScript.  
 - Supports addition, subtraction, multiplication, and division. Clean UI with keyboard input support.  
-[GitHub Repo](https://github.com/aman-shahi-dev/calculator-using-JS)
+  [GitHub Repo](https://github.com/aman-shahi-dev/calculator-using-JS)
 
 
 #### 🔹 [To-Do App](https://aman-shahi-dev.github.io/todo-app/)
 - A simple and clean to-do list web app built using HTML, CSS, and Vanilla JS.  
 - Add/delete tasks with instant alerts. Fully responsive UI.  
-[GitHub Repo](https://github.com/aman-shahi-dev/todo-app)
+  [GitHub Repo](https://github.com/aman-shahi-dev/todo-app)
 
 #### 🔹 [Color Switcher](https://aman-shahi-dev.github.io/Color-Switcher/)
 - A fun color palette toggler using JavaScript and CSS.  
 - Click buttons to change the background color instantly.  
-[GitHub Repo](https://github.com/aman-shahi-dev/Color-Switcher)
+  [GitHub Repo](https://github.com/aman-shahi-dev/Color-Switcher)
 
 ---
 
