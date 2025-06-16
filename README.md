@@ -29,7 +29,7 @@ Here are some cool things I've built recently:
 #### 🔹 [BMI Index Calculator](https://aman-shahi-dev.github.io/bmi-index-calculator-responsive/)
 - A responsive BMI calculator that takes user’s height and weight to compute BMI in real-time.
 - Displays BMI category (Underweight, Normal, Overweight, Obese) with dynamic color feedback.
-- Includes a BMI chart image and reset functionality for better user experience.
+- Includes a BMI chart image and reset functionality for better user experience.<br>
   [GitHub Repo](https://github.com/aman-shahi-dev/bmi-index-calculator-responsive)
 
 
@@ -39,24 +39,24 @@ Here are some cool things I've built recently:
 - Auto-reset logic to clear fields after review submission.
 - DOM manipulation with clean, readable vanilla JS.
 - Fully responsive for both desktop and mobile users.
-- Lightweight and fast-loading — perfect for learning frontend basics.
+- Lightweight and fast-loading — perfect for learning frontend basics.<br>
   [GitHub Repo](https://github.com/aman-shahi-dev/review-collector)
 
 
 #### 🔹 [Calculator App](https://aman-shahi-dev.github.io/calculator-using-JS/)
 - A basic calculator built using HTML, CSS, and JavaScript.  
-- Supports addition, subtraction, multiplication, and division. Clean UI with keyboard input support.  
+- Supports addition, subtraction, multiplication, and division. Clean UI with keyboard input support.<br>
   [GitHub Repo](https://github.com/aman-shahi-dev/calculator-using-JS)
 
 
 #### 🔹 [To-Do App](https://aman-shahi-dev.github.io/todo-app/)
 - A simple and clean to-do list web app built using HTML, CSS, and Vanilla JS.  
-- Add/delete tasks with instant alerts. Fully responsive UI.  
+- Add/delete tasks with instant alerts. Fully responsive UI.<br>  
   [GitHub Repo](https://github.com/aman-shahi-dev/todo-app)
 
 #### 🔹 [Color Switcher](https://aman-shahi-dev.github.io/Color-Switcher/)
 - A fun color palette toggler using JavaScript and CSS.  
-- Click buttons to change the background color instantly.  
+- Click buttons to change the background color instantly.<br>
   [GitHub Repo](https://github.com/aman-shahi-dev/Color-Switcher)
 
 ---
