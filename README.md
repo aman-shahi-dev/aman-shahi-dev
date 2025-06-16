@@ -51,7 +51,7 @@ Here are some cool things I've built recently:
 
 #### 🔹 [To-Do App](https://aman-shahi-dev.github.io/todo-app/)
 - A simple and clean to-do list web app built using HTML, CSS, and Vanilla JS.  
-- Add/delete tasks with instant alerts. Fully responsive UI.<br>  
+- Add/delete tasks with instant alerts. Fully responsive UI.<br>
 [GitHub Repo](https://github.com/aman-shahi-dev/todo-app)
 
 #### 🔹 [Color Switcher](https://aman-shahi-dev.github.io/Color-Switcher/)
