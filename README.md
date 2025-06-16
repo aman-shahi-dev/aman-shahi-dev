@@ -26,6 +26,13 @@
 
 Here are some cool things I've built recently:
 
+#### 🔹 [BMI Index Calculator](https://aman-shahi-dev.github.io/bmi-index-calculator-responsive/)
+- A responsive BMI calculator that takes user’s height and weight to compute BMI in real-time.
+- Displays BMI category (Underweight, Normal, Overweight, Obese) with dynamic color feedback.
+- Includes a BMI chart image and reset functionality for better user experience.
+[GitHub Repo](https://github.com/aman-shahi-dev/bmi-index-calculator-responsive)
+
+
 #### 🔹 [Review Collector](https://aman-shahi-dev.github.io/review-collector/)
 - A basic review collector built using HTML, CSS, and JavaScript.
 - Real-time input handling: Submit button turns green only when input is valid.
@@ -51,12 +58,6 @@ Here are some cool things I've built recently:
 - A fun color palette toggler using JavaScript and CSS.  
 - Click buttons to change the background color instantly.  
 [GitHub Repo](https://github.com/aman-shahi-dev/Color-Switcher)
-
-### 🔹 [BMI Index Calculator](https://aman-shahi-dev.github.io/bmi-index-calculator-responsive/)
-- A responsive BMI calculator that takes user’s height and weight to compute BMI in real-time.
-- Displays BMI category (Underweight, Normal, Overweight, Obese) with dynamic color feedback.
-- Includes a BMI chart image and reset functionality for better user experience.
-[GitHub Repo](https://github.com/aman-shahi-dev/bmi-index-calculator-responsive)
 
 ---
 
