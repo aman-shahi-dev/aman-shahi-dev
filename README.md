@@ -26,6 +26,12 @@
 
 Here are some cool things I've built recently:
 
+#### 🔹 [Countdown Timer](https://aman-shahi-dev.github.io/countdown-timer/)
+- Allows users to input time in seconds and start a live countdown.
+- Mobile-friendly UI with smooth updates using setInterval.
+- Handles edge cases like invalid input or zero-time gracefully.<br>[GitHub Repo](https://github.com/aman-shahi-dev/countdown-timer)
+
+
 #### 🔹 [BMI Index Calculator](https://aman-shahi-dev.github.io/bmi-index-calculator-responsive/)
 - A responsive BMI calculator that takes user’s height and weight to compute BMI in real-time.
 - Displays BMI category (Underweight, Normal, Overweight, Obese) with dynamic color feedback.
