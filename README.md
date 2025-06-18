@@ -26,6 +26,11 @@
 
 Here are some cool things I've built recently:
 
+#### 🔹 [Advance Color Picker](https://aman-shahi-dev.github.io/advance-color-picker/)
+- A sleek web tool to pick any color and instantly generate its complementary color using bitwise XOR.
+- Offers clipboard functionality for both colors and visually saves selected color pairs as beautiful cards.
+- Includes modern toast notifications and a responsive, stylish UI layout.<br>[GitHub Repo](https://github.com/aman-shahi-dev/advance-color-picker)
+
 #### 🔹 [Countdown Timer](https://aman-shahi-dev.github.io/countdown-timer/)
 - Allows users to input time in seconds and start a live countdown.
 - Mobile-friendly UI with smooth updates using setInterval.
