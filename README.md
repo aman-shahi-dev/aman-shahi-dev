@@ -4,7 +4,7 @@
 </p>
 
 
-<h3 align="center">Developer in developing phase</h3>
+<h3 align="center">Web Developer</h3>
 
 ---
 
