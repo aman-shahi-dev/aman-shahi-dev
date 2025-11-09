@@ -17,7 +17,7 @@
 ### 🔧 Technologies I Use
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,cpp,github,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,express,react,nodejs,cpp,github,git" />
 </p>
 
 ---
