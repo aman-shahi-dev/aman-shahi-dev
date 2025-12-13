@@ -80,8 +80,8 @@ Here are some cool things I've built recently:
 
 ### 📫 Connect with Me
 
-- [![Twitter](https://img.shields.io/twitter/follow/:user-@amanshahidev-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/amanshahidev)
-- [![Gmail](https://img.shields.io/badge/Email-amanshahidev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amanshahidev@gmail.com)
-- [![Discord](https://img.shields.io/badge/Discord-@amanshahidev-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://discord.com/users/amanshahi_01006)
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/amanshahidev)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amanshahidev@gmail.com)
+- [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/amanshahi_01006)
 
 ---
