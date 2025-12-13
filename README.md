@@ -80,7 +80,7 @@ Here are some cool things I've built recently:
 
 ### 📫 Connect with Me
 
-- [![Twitter Follow](https://img.shields.io/twitter/follow/amanshahidev?style=social)](https://twitter.com/amanshahidev)
+- [![Twitter Follow](https://img.shields.io/twitter/follow/amanshahidev?style=social)](https://twitter.com/TheBinaryCoder0)
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amanshahidev@gmail.com)
 - [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/amanshahi_01006)
 
