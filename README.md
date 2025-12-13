@@ -12,6 +12,8 @@
 
 - I do competitive programming (2 star coder at CodeChef)
 
+- Message me on [Discord](https://discord.com/users/amanshahi_01006)
+
 ---
 
 ### 🔧 Technologies I Use
