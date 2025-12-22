@@ -3,15 +3,6 @@
   <img src="https://raw.githubusercontent.com/aman-shahi-dev/aman-shahi-dev/main/me-1.jpg" alt="Aman Shahi Banner" width=300/>
 </p>
 
-
-<h3 align="center">Full Stack Web Developer</h3>
-
----
-
-### 🧑‍💻 About Me
-
-- I do competitive programming (2 star coder at CodeChef)
-
 ---
 
 ### 🔧 Technologies I Use
