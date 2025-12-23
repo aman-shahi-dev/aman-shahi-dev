@@ -1,42 +1,24 @@
-<!-- Banner Title with Orange Background -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aman-shahi-dev/aman-shahi-dev/main/me-1.jpg" alt="Aman Shahi Banner" width=300/>
-</p>
+# Hi, I'm Aman Shahi.
 
----
+I am a Full Stack Engineer focused on building accessible, pixel-perfect, and performant web experiences. I am currently working on scaling backend systems and mastering system design.
 
-### 🔧 Technologies I Use
+### 🛠 Technical Skills
+* **Languages:** JavaScript (ES6+), C++, TypeScript, SQL
+* **Frontend:** React, Next.js, Tailwind CSS, Redux
+* **Backend:** Node.js, Express, MongoDB, PostgreSQL
+* **Tools:** Git, Docker, Linux, Postman
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,express,react,nodejs,tailwind,cpp,github,git,postman,vscode" />
-</p>
+### 🚀 Featured Projects
 
----
+**[Shoppex (E-Commerce Platform)](link-to-repo)**
+A full-stack e-commerce application handling real-time inventory and secure payments.
+* **Tech:** MERN Stack, Redux Toolkit, Stripe API.
+* **Highlight:** Implemented optimistic UI updates to reduce perceived latency by 40%.
 
-### 📁 Projects
-
-Here are some cool things I've built recently:
-
-#### 🔹 [Project Name]()
-- Add/delete tasks with instant alerts. Fully responsive UI.<br>[GitHub Repo](https://github.com/aman-shahi-dev/todo-app)
-
----
-
+**[CodeJournal](link-to-repo)**
+A personalized platform for developers to document and review DSA patterns.
+* **Tech:** Next.js, TypeScript, PostgreSQL.
+* **Highlight:** Built a custom markdown editor and optimized database queries for 200ms retrieval times.
 
 ### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aman-shahi-dev&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-shahi-dev&theme=tokyonight" />
-</p>
-
----
-
-### 📫 Connect with Me
-
-- [![Twitter Follow](https://img.shields.io/twitter/follow/TheBinaryCoder0?style=social)](https://twitter.com/TheBinaryCoder0)
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amanshahidev@gmail.com)
-- [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/amanshahi_01006)
-
----
+(Keep these small if you want to include them, but prioritize pinned repositories over automated stats)
