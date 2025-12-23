@@ -10,11 +10,11 @@ Currently, I'm diving deep into **System Design** and **Advanced Backend Archite
   <a href="https://www.linkedin.com/in/aman-shahi-sde/" target="_blank">
     <kbd>&nbsp;&nbsp;<b>LinkedIn</b>&nbsp;&nbsp;</kbd>
   </a>
-  &nbsp;&nbsp;
+  <br/>
   <a href="https://x.com/TheBinaryCoder0" target="_blank">
     <kbd>&nbsp;&nbsp;<b>Twitter / X</b>&nbsp;&nbsp;</kbd>
   </a>
-  &nbsp;&nbsp;
+  <br/>
   <a href="mailto:amanshahidev@gmail.com">
     <kbd>&nbsp;&nbsp;<b>Email Me</b>&nbsp;&nbsp;</kbd>
   </a>
