@@ -7,9 +7,17 @@ Currently, I'm diving deep into **System Design** and **Advanced Backend Archite
 
 ### Socials
 <p align="left">
-  <a href="https://www.linkedin.com/in/aman-shahi-sde/" target="_blank"><kbd>LinkedIn</kbd></a>&nbsp;
-  <a href="https://x.com/TheBinaryCoder0" target="_blank"><kbd>Twitter / X</kbd></a>&nbsp;
-  <a href="mailto:amanshahidev@gmail.com"><kbd>Email Me</kbd></a>
+  <a href="https://www.linkedin.com/in/aman-shahi-sde/" target="_blank">
+    <kbd>&nbsp;&nbsp;<b>LinkedIn</b>&nbsp;&nbsp;</kbd>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/TheBinaryCoder0" target="_blank">
+    <kbd>&nbsp;&nbsp;<b>Twitter / X</b>&nbsp;&nbsp;</kbd>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:amanshahidev@gmail.com">
+    <kbd>&nbsp;&nbsp;<b>Email Me</b>&nbsp;&nbsp;</kbd>
+  </a>
 </p>
 ---
 
