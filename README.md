@@ -5,7 +5,6 @@ I am a Software Engineer based in India who loves the craft of building things.
 Currently, I'm diving deep into **System Design** and **Advanced Backend Architecture**.
 
 
-### Socials
 <p align="left">
   <a href="https://www.linkedin.com/in/aman-shahi-sde/" target="_blank">
     <kbd>&nbsp;&nbsp;<b>LinkedIn</b>&nbsp;&nbsp;</kbd>
