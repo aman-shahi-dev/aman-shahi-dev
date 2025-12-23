@@ -26,4 +26,4 @@ Here is a breakdown of what I've been building recently:
 ### 📈 GitHub Stats
 ![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aman-shahi-dev&show_icons=true&theme=omni)
 ---
-[LinkedIn](https://www.linkedin.com/in/aman-shahi-sde/) • [Twitter]([YOUR_TWITTER_URL](https://x.com/TheBinaryCoder0)) • [Email](mailto:amanshahidev@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/aman-shahi-sde/) • [Twitter](https://x.com/TheBinaryCoder0) • [Email](mailto:amanshahidev@gmail.com)
