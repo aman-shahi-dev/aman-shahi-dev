@@ -4,20 +4,20 @@ I am a Software Engineer based in India who loves the craft of building things.
 
 Currently, I'm diving deep into **System Design** and **Advanced Backend Architecture**.
 
-
-<p align="left">
+<h3 align="left">
   <a href="https://www.linkedin.com/in/aman-shahi-sde/" target="_blank">
-    <kbd>&nbsp;&nbsp;&nbsp;&nbsp;<b>LinkedIn</b>&nbsp;&nbsp;&nbsp;&nbsp;</kbd>
+    <kbd>&nbsp;&nbsp;&nbsp;LinkedIn&nbsp;&nbsp;&nbsp;</kbd>
   </a>
-  <br/>
+  &nbsp;&nbsp;
   <a href="https://x.com/TheBinaryCoder0" target="_blank">
-    <kbd>&nbsp;&nbsp;&nbsp;&nbsp;<b>Twitter / X</b>&nbsp;&nbsp;&nbsp;&nbsp;</kbd>
+    <kbd>&nbsp;&nbsp;&nbsp;Twitter / X&nbsp;&nbsp;&nbsp;</kbd>
   </a>
-  <br/>
+  &nbsp;&nbsp;
   <a href="mailto:amanshahidev@gmail.com">
-    <kbd>&nbsp;&nbsp;&nbsp;&nbsp;<b>Email Me</b>&nbsp;&nbsp;&nbsp;&nbsp;</kbd>
+    <kbd>&nbsp;&nbsp;&nbsp;Email Me&nbsp;&nbsp;&nbsp;</kbd>
   </a>
-</p>
+</h3>
+
 ---
 
 ### 🛠 Tech Stack
