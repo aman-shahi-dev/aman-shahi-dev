@@ -6,15 +6,15 @@ Currently, I'm diving deep into **System Design** and **Advanced Backend Archite
 
 <h3 align="left">
   <a href="https://www.linkedin.com/in/aman-shahi-sde/" target="_blank">
-    <kbd>&nbsp;&nbsp;&nbsp;LinkedIn&nbsp;&nbsp;&nbsp;</kbd>
+    <kbd>&nbsp;&nbsp;LinkedIn&nbsp;&nbsp;</kbd>
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/TheBinaryCoder0" target="_blank">
-    <kbd>&nbsp;&nbsp;&nbsp;Twitter / X&nbsp;&nbsp;&nbsp;</kbd>
+    <kbd>&nbsp;&nbsp;Twitter / X&nbsp;&nbsp;</kbd>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:amanshahidev@gmail.com">
-    <kbd>&nbsp;&nbsp;&nbsp;Email Me&nbsp;&nbsp;&nbsp;</kbd>
+    <kbd>&nbsp;&nbsp;Email Me&nbsp;&nbsp;</kbd>
   </a>
 </h3>
 
