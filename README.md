@@ -7,15 +7,15 @@ Currently, I'm diving deep into **System Design** and **Advanced Backend Archite
 
 <p align="left">
   <a href="https://www.linkedin.com/in/aman-shahi-sde/" target="_blank">
-    <kbd>&nbsp;&nbsp;<b>LinkedIn</b>&nbsp;&nbsp;</kbd>
+    <kbd>&nbsp;&nbsp;&nbsp;&nbsp;<b>LinkedIn</b>&nbsp;&nbsp;&nbsp;&nbsp;</kbd>
   </a>
   <br/>
   <a href="https://x.com/TheBinaryCoder0" target="_blank">
-    <kbd>&nbsp;&nbsp;<b>Twitter / X</b>&nbsp;&nbsp;</kbd>
+    <kbd>&nbsp;&nbsp;&nbsp;&nbsp;<b>Twitter / X</b>&nbsp;&nbsp;&nbsp;&nbsp;</kbd>
   </a>
   <br/>
   <a href="mailto:amanshahidev@gmail.com">
-    <kbd>&nbsp;&nbsp;<b>Email Me</b>&nbsp;&nbsp;</kbd>
+    <kbd>&nbsp;&nbsp;&nbsp;&nbsp;<b>Email Me</b>&nbsp;&nbsp;&nbsp;&nbsp;</kbd>
   </a>
 </p>
 ---
