@@ -11,18 +11,14 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/aman-shahi-dev">
-  <img src="https://github-readme-stats.vercel.app/api?username=aman-shahi-dev&show_icons=true&theme=radical&count_private=true" height="180" alt="aman-shahi-dev's Github Stats" />
-  </a>
-  <a href="https://github.com/aman-shahi-dev">
+  <img src="https://github-readme-stats.vercel.app/api?username=aman-shahi-dev&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-shahi-dev&layout=compact&theme=radical" height="180" alt="Top Languages" />
-  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-shahi-dev&theme=radical" alt="aman-shahi-dev's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-shahi-dev&theme=radical" alt="Streak Stats" />
 </div>
 
 <br>
