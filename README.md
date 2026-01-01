@@ -28,7 +28,7 @@
 | Project | Tech | Status | Link |
 | :--- | :--- | :--- | :--- |
 | **Theme Switcher** | `HTML` `CSS` `JS` | 🟢 Live | [**View Deployment**](https://aman-shahi-dev.github.io/theme-switcher/) |
-| **Shoppex** | `React` `lucide icons` `Context API` | 🟡 In Development | [**View Deployment**]([https://aman-shahi-dev.github.io/theme-switcher/](https://aman-shahi-dev.github.io/Shoppex/#/)) |
+| **Shoppex** | `React` `lucide icons` `Context API` | 🟡 In Development | [**View Deployment**](https://aman-shahi-dev.github.io/Shoppex/#/) |
 
 <br>
 
