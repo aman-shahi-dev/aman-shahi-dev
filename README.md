@@ -1,11 +1,11 @@
 <h1 align="center">Hey! I am Aman 👋</h1>
 
-<h3 align="center">
-  🚀 Full Stack Developer
-</h3>
+<h2 align="center">
+  👨‍💻 Full Stack Developer
+</h2>
 
 <p align="center">
-  <i>Building accessible and responsive web applications with the MERN Stack.</i>
+  <i>Building web applications that helps in solving real life problems with the MERN Stack.</i>
 </p>
 
 <br>
