@@ -1,37 +1,13 @@
-<h1 align="center">Hey! I am Aman 👋</h1>
+# Hey! I am Aman 👋
 
-<h3 align="center">
-  🚀 Full Stack Developer
-</h3>
+### 🚀 Full Stack Developer
+_Building accessible and responsive web applications with the MERN Stack._
 
-<p align="center">
-  <i>Building accessible and responsive web applications with the MERN Stack.</i>
-</p>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aman-shahi-dev&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-shahi-dev&layout=compact&theme=radical" height="180" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-shahi-dev&theme=radical" alt="Streak Stats" />
-</div>
-
-<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aman-shahi-dev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-shahi-dev&layout=compact&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=aman-shahi-dev&theme=radical)
 
 ## 💻 Projects
-
 | Project | Tech | Status | Link |
 | :--- | :--- | :--- | :--- |
 | **Theme Switcher** 🌗 | `HTML` `CSS` `JS` | 🟢 Live | [**View Deployment**](https://aman-shahi-dev.github.io/theme-switcher/) |
-
-<br>
-
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aman-shahi-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
