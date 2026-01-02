@@ -1,14 +1,8 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2300&pause=100&color=FF69B4&center=true&multiline=true&repeat=false&width=700&height=120&lines=Hi%2C+I'm+Aman+Shahi!;Full+Stack+Developer;Building+Web+Apps+with+MERN+Stack+that+solves+real+life+problems." alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2300&pause=100&color=FFA500&center=true&multiline=true&repeat=false&width=700&height=120&lines=Hi%2C+I'm+Aman+Shahi!;Full+Stack+Developer;Building+Web+Apps+with+MERN+Stack+that+solves+real+life+problems." alt="Typing SVG"/>
   </a>
 </div>
-
-<br/>
-
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif">
-</h2>
 
 <br/>
 
@@ -17,8 +11,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/TheBinaryCoder0">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
   </a>
+</div>
 
 <br/>
 
