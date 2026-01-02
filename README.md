@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2300&pause=100&color=FF69B4&center=true&multiline=true&repeat=false&width=700&height=120&lines=Hi%2C+I'm+Aman+Shahi!;Full+Stack+Developer;Building+Web+Apps+with+MERN+Stack;Always+Learning+%26+Coding!" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2300&pause=100&color=FF69B4&center=true&multiline=true&repeat=false&width=700&height=120&lines=Hi%2C+I'm+Aman+Shahi!;Full+Stack+Developer;Building+Web+Apps+with+MERN+Stack+that+solves+real+life+problems." alt="Typing SVG"/>
   </a>
 </div>
 
@@ -16,11 +16,9 @@
   <a href="https://www.linkedin.com/in/aman-shahi-sde/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://aman-shahi-dev.github.io/Shoppex/#/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://x.com/TheBinaryCoder0">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-</div>
-
 
 <br/>
 
