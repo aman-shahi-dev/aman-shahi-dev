@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/aman-shahi-sde/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="https://x.com/TheBinaryCoder0"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+  <a href="https://www.linkedin.com/in/aman-shahi-sde/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="https://x.com/TheBinaryCoder0"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
 </div>
 
 <br/>
